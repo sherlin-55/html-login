@@ -1,0 +1,20 @@
+form{
+    width: 25px;
+    height: 28px;
+    flex-direction: column;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: middle;
+    color: blue;
+    margin-bottom: ;
+}
+label{
+    font-size: 30px;
+    text-align: center;
+}
+input{
+margin-bottom: 8%;
+    margin:5% auto;
+}
